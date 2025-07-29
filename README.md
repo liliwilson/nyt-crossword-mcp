@@ -17,7 +17,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 ```
-After you're able to run it locally, you can connect the server to an LLM application of choice that supports MCP by using the following configuration information:
+
+After you're able to run it locally, you can connect the server to an LLM application of choice that supports MCP by using configuration information similar to the following:
 
 ```json
 {
@@ -29,10 +30,11 @@ After you're able to run it locally, you can connect the server to an LLM applic
     "env": {
       "NYT_COOKIE": "insert_your_cookie_here"
     },
-    "working_directory": null
+    "working_directory": null 
   }
 }
 ```
+The above example is for Warp's MCP server config. 
 
 
 ### how to get nyt games cookie?
