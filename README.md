@@ -1,6 +1,9 @@
 # nyt crossword mcp server
 
-An MCP server that gives agents access to your NYT crossword solve times and statistics. 
+An MCP server that gives an agent access to your NYT crossword solve times and statistics. Because why not be able to check with your terminal if your precious streak is at risk?
+
+<img width="1520" height="955" alt="image" src="https://github.com/user-attachments/assets/a602ace7-4a3f-4703-b3a3-d18e1dd9e0b5" />
+
 
 ## setup
 
